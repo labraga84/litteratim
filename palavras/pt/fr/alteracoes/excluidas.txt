@@ -1,0 +1,52 @@
+# Palavras a excluir do jogo (uma por linha). Linhas com # são comentários.
+# --- 2 letras: abreviaturas e símbolos que não são palavras no francês
+ab
+ac
+ad
+ae
+ag
+al
+am
+av
+ed
+id
+oe
+op
+oz
+po
+qu
+ua
+ud
+yd
+yg
+yl
+ym
+ys
+# --- 3 letras: siglas e símbolos
+abc
+acd
+alm
+alx
+api
+asr
+atm
+avr
+dpi
+env
+ylm
+ylx
+ycd
+ysr
+# --- insultos étnicos e homofóbicos
+bougnoule
+bougnoules
+youpin
+youpins
+youpine
+youpines
+bicot
+bicots
+pédé
+pédés
+négro
+négros
