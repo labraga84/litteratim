@@ -1,0 +1,27 @@
+# Palavras que ficam SEMPRE no jogo, mesmo que os filtros as excluam
+# (ex.: estrangeirismos já integrados no português). Uma por linha, com as formas flexionadas.
+# Revisão de 2026-10-07.
+pizza
+pizzas
+czar
+czares
+czarina
+czarinas
+czarismo
+czarismos
+czarista
+czaristas
+videoclube
+videoclubes
+videoclipe
+videoclipes
+site
+sites
+email
+emails
+# link — impossível: o K não faz parte das peças em português
+# links — idem
+design
+designs
+zoom
+zooms
