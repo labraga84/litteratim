@@ -57,7 +57,7 @@ Para o Jogo funcionar, são guardadas localmente no dispositivo, e apenas aí, a
 - a partida em curso, para poder ser retomada;
 - recordes, estatísticas e conquistas;
 - moeda virtual, ajudas e estilos obtidos;
-- preferências (som, música, contraste, estilo do tabuleiro e opções de jogo);
+- preferências (som, música, contraste, estilos, línguas da interface e do dicionário e opções de jogo);
 - os nomes de jogadores escritos pelo utilizador, quando existam.
 
 Estas informações não são enviadas para servidores do Programador nem partilhadas com terceiros. São eliminadas quando o utilizador limpa os dados da Aplicação ou a desinstala.

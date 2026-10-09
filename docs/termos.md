@@ -82,7 +82,7 @@ Se a Aplicação for descontinuada ou deixar de estar disponível, serão respei
 
 A validação das palavras no Jogo baseia-se em listas de palavras geradas a partir de dicionários livres (ver "Sobre" na Aplicação), adaptadas para o Jogo.
 
-Estas listas podem conter erros ou omissões e não constituem uma obra de referência sobre a língua portuguesa. As atualizações da Aplicação podem acrescentar ou retirar palavras.
+Estas listas podem conter erros ou omissões e não constituem uma obra de referência sobre nenhuma das línguas do Jogo. As atualizações da Aplicação podem acrescentar ou retirar palavras.
 
 As listas de palavras são distribuídas nos termos das licenças livres dos dicionários de origem e estão publicamente disponíveis, conforme indicado em "Sobre".
 
